@@ -9,7 +9,7 @@
 <h1 align="center">Aditya Raj</h1>
 
 <p align="center">
-  <a href="https://github.com/me-adityaraj8"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=620&height=48&lines=CS%20undergrad%20at%20IIIT%20Bhagalpur%3BFull-stack%20TypeScript.%20C%2B%2B%20for%20DSA.%3B568%20problems%20solved.%204%20products%20shipped.%3BOpen%20to%20SDE%20internships." alt="CS undergrad at IIIT Bhagalpur - full-stack TypeScript, C++ for DSA, open to SDE internships" /></a>
+  <a href="https://github.com/me-adityaraj8"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=620&height=48&lines=CS%20undergrad%20at%20IIIT%20Bhagalpur%3BFull-stack%20TypeScript.%20C%2B%2B%20for%20DSA.%3B500%2B%20problems%20solved.%203%20products%20shipped.%3BOpen%20to%20SDE%20internships." alt="CS undergrad at IIIT Bhagalpur - full-stack TypeScript, C++ for DSA, 500+ problems solved, open to SDE internships" /></a>
 </p>
 
 <p align="center">
