@@ -40,6 +40,12 @@ Everything below is deployed and clickable.
 **82-day peak streak on Codolio** and **50+ rated contests**. The consistency matters more to me than
 any single rating.
 
+<p align="left">
+  <a href="https://codeforces.com/profile/FierceSpartan"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DFierceSpartan&query=%24.result%5B0%5D.rating&label=Codeforces&color=1F8ACB&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces rating" /></a>
+  <a href="https://codeforces.com/profile/FierceSpartan"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DFierceSpartan&query=%24.result%5B0%5D.maxRank&label=peak&color=03A89E&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces peak rank" /></a>
+  <img src="https://img.shields.io/badge/LeetCode-1557-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode contest rating 1557" />
+</p>
+
 ## What I build with
 
 <table>
