@@ -48,23 +48,58 @@ any single rating.
 
 ## What I build with
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="64" height="64" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-| | |
-| :--- | :--- |
-| **Languages** | C++ · TypeScript · JavaScript · Swift · SQL |
-| **Frontend** | React 18/19 · Next.js 14–16 · Vite · Tailwind CSS · Radix UI · GSAP · Framer Motion · TanStack Query · Zustand |
-| **Backend** | Node.js · Express · Prisma · PostgreSQL (Neon, Supabase) · Cloudflare Workers + Durable Objects · Zod · JWT |
-| **Infra** | Docker · Vercel · Render · Wrangler · Vitest · Git |
+**💻 Languages**
+<br/>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
+<br/>
+
+**⚙️ Backend & Data**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🎨 Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+<br/>
+
+**🔧 Infra & Tools**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+  </tr>
+</table>
 
 ## Currently
 
