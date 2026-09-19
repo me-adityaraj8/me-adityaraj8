@@ -32,7 +32,6 @@ Everything below is deployed and clickable.
 | :--- | :--- | :--- |
 | **[Rys](https://github.com/me-adityaraj8/career-os)**<br/>[live ↗](https://rys-eight.vercel.app) | Job-search workspace. Kanban drag-and-drop that persists atomically, and AI behind a provider-agnostic gateway with a deterministic mock mode. | `React` `Express` `PostgreSQL` `Docker` |
 | **[Parley](https://github.com/me-adityaraj8/parley)**<br/>[live ↗](https://parley-taupe-phi.vercel.app) | P2P video calling — **media never touches a server**. WebRTC mesh, Perfect Negotiation, Durable Objects signalling. 56 tests. | `Next.js 15` `WebRTC` `Cloudflare` |
-| **[Allotly](https://github.com/me-adityaraj8/allotly)**<br/>[live ↗](https://allotly-five.vercel.app) | Shared IPO pool tracker. **No balance is ever stored** — every figure is a `SUM()` over an append-only double-entry ledger that must net to zero. | `Next.js 16` `Prisma` `PostgreSQL` |
 | **[Kairo](https://github.com/me-adityaraj8/kairo)**<br/>[live ↗](https://kairo-olive-beta.vercel.app) | Gamified task tracker. XP, gold and streaks all computed **server-side**, so the client can't cheat them. | `Next.js 14` `Prisma` `NextAuth` |
 
 ## Problem solving
