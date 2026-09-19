@@ -22,28 +22,23 @@
 
 Third-year B.Tech CSE at **IIIT Bhagalpur**.
 
-I co-founded **Kalaa SkillTech**, a vocational-training startup putting rural youth through
-technical training and apprenticeships. It was selected from **10,000+ applicants for ₹10 lakh
-in seed funding under Startup Bihar** (Dept. of Industries, Govt. of Bihar), where I led
-frontend and built the trainee registration and onboarding flow.
+Co-founder of **Kalaa SkillTech** — vocational training for rural youth, **₹10 lakh seed funding under Startup Bihar**, selected from 10,000+ applicants.
 
-I care about the parts that are easy to get wrong — money that has to balance, state that has
-to survive a refresh, and connections that have to recover when the network drops. Everything
-below is deployed and clickable.
+Everything below is deployed and clickable.
 
 ## Selected work
 
-| Project | The part that was actually hard | Stack |
+| Project | What's interesting | Stack |
 | :--- | :--- | :--- |
-| **[Rys](https://github.com/me-adityaraj8/career-os)**<br/>[live ↗](https://rys-eight.vercel.app) | A job-search workspace. Six-stage Kanban whose drag-and-drop persists atomically, so a dropped card is never half-moved. AI runs behind a provider-agnostic gateway (Gemini → Groq → OpenRouter) with a deterministic mock mode, so local dev costs nothing and tests stay repeatable. | `React` `Vite` `Express` `PostgreSQL` `TanStack Query` `Zustand` `dnd-kit` `Vitest` `Docker` |
-| **[Parley](https://github.com/me-adityaraj8/parley)**<br/>[live ↗](https://parley-taupe-phi.vercel.app) | Browser video calling where **media never touches a server**. WebRTC mesh using Perfect Negotiation so simultaneous offers resolve instead of deadlocking, with signalling over Cloudflare Workers + Durable Objects. 56 tests. | `Next.js 15` `React 19` `TypeScript (strict)` `WebRTC` `Cloudflare Workers` `Durable Objects` `GSAP` |
-| **[Allotly](https://github.com/me-adityaraj8/allotly)**<br/>[live ↗](https://allotly-five.vercel.app) | Tracks a shared IPO application pool. **No balance is ever stored.** Every figure on every screen is a `SUM()` over an append-only double-entry ledger, and each money event writes postings that must net to exactly zero — enforced at write time, not by a nightly job. | `Next.js 16` `React 19` `Prisma` `PostgreSQL` `Zod` `Recharts` `Tailwind v4` |
-| **[Kairo](https://github.com/me-adityaraj8/kairo)**<br/>[live ↗](https://kairo-olive-beta.vercel.app) | A to-do list that keeps score. Tasks become quests paying XP, gold, streaks and companion growth — all computed **server-side**, so no amount of devtools gets you a free level. | `Next.js 14` `Prisma` `Neon Postgres` `NextAuth` `Framer Motion` |
+| **[Rys](https://github.com/me-adityaraj8/career-os)**<br/>[live ↗](https://rys-eight.vercel.app) | Job-search workspace. Kanban drag-and-drop that persists atomically, and AI behind a provider-agnostic gateway with a deterministic mock mode. | `React` `Express` `PostgreSQL` `Docker` |
+| **[Parley](https://github.com/me-adityaraj8/parley)**<br/>[live ↗](https://parley-taupe-phi.vercel.app) | P2P video calling — **media never touches a server**. WebRTC mesh, Perfect Negotiation, Durable Objects signalling. 56 tests. | `Next.js 15` `WebRTC` `Cloudflare` |
+| **[Allotly](https://github.com/me-adityaraj8/allotly)**<br/>[live ↗](https://allotly-five.vercel.app) | Shared IPO pool tracker. **No balance is ever stored** — every figure is a `SUM()` over an append-only double-entry ledger that must net to zero. | `Next.js 16` `Prisma` `PostgreSQL` |
+| **[Kairo](https://github.com/me-adityaraj8/kairo)**<br/>[live ↗](https://kairo-olive-beta.vercel.app) | Gamified task tracker. XP, gold and streaks all computed **server-side**, so the client can't cheat them. | `Next.js 14` `Prisma` `NextAuth` |
 
 ## Problem solving
 
 **500+ problems solved** across Codeforces and LeetCode, over **309 active days** with an
-**82-day peak streak on Codolio** and **39 rated contests**. The consistency matters more to me than
+**82-day peak streak on Codolio** and **50+ rated contests**. The consistency matters more to me than
 any single rating.
 
 ## What I build with
