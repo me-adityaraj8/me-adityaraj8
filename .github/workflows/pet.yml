@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# both workflows commit to main - queue them so they can never race
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   pet:
     runs-on: ubuntu-latest
