@@ -9,7 +9,7 @@
 <h1 align="center">Aditya Raj</h1>
 
 <p align="center">
-  <a href="https://github.com/me-adityaraj8"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=620&height=48&lines=CS%20undergrad%20at%20IIIT%20Bhagalpur%3BFull-stack%20TypeScript.%20C%2B%2B%20for%20DSA.%3B500%2B%20problems%20solved.%203%20products%20shipped.%3BOpen%20to%20SDE%20internships." alt="CS undergrad at IIIT Bhagalpur - full-stack TypeScript, C++ for DSA, 500+ problems solved, open to SDE internships" /></a>
+  <a href="https://github.com/me-adityaraj8"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=620&height=48&lines=CS%20undergrad%20at%20IIIT%20Bhagalpur%3BFull-stack%20Engineer.%20Problem%20Solver%20in%20C%2B%2B.%3B600%2B%20problems%20solved.%203%20products%20shipped.%3BOpen%20to%20SDE%20internships." alt="CS undergrad at IIIT Bhagalpur - full-stack engineer, problem solver in C++, 600+ problems solved, open to SDE internships" /></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Third-year B.Tech CSE at **IIIT Bhagalpur**.
 
 Co-founder of **Kalaa SkillTech** — vocational training for rural youth, **₹10 lakh seed funding under Startup Bihar**, selected from 10,000+ applicants.
 
-Everything below is deployed and clickable.
+Every project links to its source, and each web app to a live demo.
 
 ## Selected work
 
@@ -33,17 +33,26 @@ Everything below is deployed and clickable.
 | **[Rys](https://github.com/me-adityaraj8/career-os)**<br/>[live ↗](https://rys-eight.vercel.app) | Job-search workspace. Kanban drag-and-drop that persists atomically, and AI behind a provider-agnostic gateway with a deterministic mock mode. | `React` `Express` `PostgreSQL` `Docker` |
 | **[Parley](https://github.com/me-adityaraj8/parley)**<br/>[live ↗](https://parley-taupe-phi.vercel.app) | P2P video calling — **media never touches a server**. WebRTC mesh, Perfect Negotiation, Durable Objects signalling. 56 tests. | `Next.js 15` `WebRTC` `Cloudflare` |
 | **[Kairo](https://github.com/me-adityaraj8/kairo)**<br/>[live ↗](https://kairo-olive-beta.vercel.app) | Gamified task tracker. XP, gold and streaks all computed **server-side**, so the client can't cheat them. | `Next.js 14` `Prisma` `NextAuth` |
+| **[QRGen](https://github.com/me-adityaraj8/qrgen)**<br/>Chrome extension | Offline QR generator for links, Wi-Fi, contacts and more. **Every visual style is decode-tested** so styled codes still scan, and nothing leaves the browser. | `React` `TypeScript` `Vitest` |
+
+## Contributions
+
+| PR | Status | What I fixed |
+| :--- | :--- | :--- |
+| **[NexusEditor #1](https://github.com/Namansingh3264/NexusEditor/pull/1)** | Merged | Access-control bugs in a real-time collaborative editor: saves that could **overwrite another user's document**, viewers able to edit live, and privilege escalation through the share API. |
+| **[selenograph #1](https://github.com/varun00077/selenograph/pull/1)** | Open | A production build that pointed **every visitor's browser at `localhost`**, and a UI that couldn't be used without a mouse. |
 
 ## Problem solving
 
-**500+ problems solved** across Codeforces and LeetCode, over **309 active days** with an
+**600+ problems solved** across Codeforces and LeetCode, over **309 active days** with an
 **82-day peak streak on Codolio** and **50+ rated contests**. The consistency matters more to me than
 any single rating.
 
 <p align="left">
   <a href="https://codeforces.com/profile/FierceSpartan"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DFierceSpartan&query=%24.result%5B0%5D.rating&label=Codeforces&color=1F8ACB&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces rating" /></a>
-  <a href="https://codeforces.com/profile/FierceSpartan"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DFierceSpartan&query=%24.result%5B0%5D.maxRank&label=peak&color=03A89E&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces peak rank" /></a>
   <img src="https://img.shields.io/badge/LeetCode-1557-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode contest rating 1557" />
+  <br/>
+  <a href="https://codeforces.com/profile/FierceSpartan"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DFierceSpartan&query=%24.result%5B0%5D.maxRank&label=peak&color=03A89E&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces peak rank" /></a>
 </p>
 
 ## What I build with
@@ -103,8 +112,9 @@ any single rating.
 
 ## Currently
 
-Building out **Rys**, writing a native macOS app in Swift, and keeping the Codeforces streak
-alive. Open to SDE internships — my inbox is open.
+Exploring **open-source agentic AI**: studying [nanocoder](https://github.com/Nano-Collective/nanocoder), a community-built coding agent for the terminal, and working toward my first contributions upstream. Alongside that, I'm developing **Rys** and competing regularly on Codeforces.
+
+I'm open to **SDE internship opportunities**. The quickest way to reach me is [email](mailto:me.adityaraj8@gmail.com).
 
 ## GitHub
 
@@ -122,7 +132,7 @@ alive. Open to SDE internships — my inbox is open.
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=me-adityaraj8.me-adityaraj8&style=flat-square&color=39d353" alt="Profile visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=me-adityaraj8.me-adityaraj8&left_text=Profile%20views&left_color=%230d1117&right_color=%2339d353" alt="Profile views" width="165" />
 </p>
 
 ## Reach me
