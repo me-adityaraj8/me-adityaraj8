@@ -39,8 +39,7 @@ Every project links to its source, and each web app to a live demo.
 
 | PR | Status | What I fixed |
 | :--- | :--- | :--- |
-| **[NexusEditor #1](https://github.com/Namansingh3264/NexusEditor/pull/1)** | Merged | Access-control bugs in a real-time collaborative editor: saves that could **overwrite another user's document**, viewers able to edit live, and privilege escalation through the share API. |
-| **[selenograph #1](https://github.com/varun00077/selenograph/pull/1)** | Open | A production build that pointed **every visitor's browser at `localhost`**, and a UI that couldn't be used without a mouse. |
+| **[freeCodeCamp #71332](https://github.com/freeCodeCamp/freeCodeCamp/pull/71332)** | Open | First contribution to freeCodeCamp: fixed a sentence fragment in a Python curriculum test hint, verified against the repo's curriculum test suite. |
 
 ## Problem solving
 
