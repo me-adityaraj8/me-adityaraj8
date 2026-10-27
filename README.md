@@ -40,6 +40,7 @@ Every project links to its source, and each web app to a live demo.
 
 | PR | Status | What I fixed |
 | :--- | :--- | :--- |
+| **[nanocoder #1898](https://github.com/Nano-Collective/nanocoder/pull/1898)** | Open | Open-source terminal coding agent. A mistyped flag like `nanocoder acp` now suggests *Did you mean "--acp"?* instead of failing with a bare error. Added unit and CLI integration tests, plus an Xcode setup guide for the Agent Client Protocol. |
 | **[freeCodeCamp #71332](https://github.com/freeCodeCamp/freeCodeCamp/pull/71332)** | Merged | First contribution to freeCodeCamp: fixed a sentence fragment in a Python curriculum test hint, verified against the repo's curriculum test suite. |
 
 ## Problem solving
@@ -112,7 +113,7 @@ any single rating.
 
 ## Currently
 
-Exploring **open-source agentic AI**: studying [nanocoder](https://github.com/Nano-Collective/nanocoder), a community-built coding agent for the terminal, and working toward my first contributions upstream. Alongside that, I'm developing **Rys** and competing regularly on Codeforces.
+Exploring **open-source agentic AI**: contributing to [nanocoder](https://github.com/Nano-Collective/nanocoder), a community-built coding agent for the terminal, where my first PR is in review. Alongside that, I'm developing **Rys** and competing regularly on Codeforces.
 
 I'm open to **SDE internship opportunities**. The quickest way to reach me is [email](mailto:me.adityaraj8@gmail.com).
 
