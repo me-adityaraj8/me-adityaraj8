@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://me-adityaraj8.vercel.app"><img src="https://img.shields.io/badge/Portfolio-me--adityaraj8.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:me.adityaraj8@gmail.com"><img src="https://img.shields.io/badge/Email-me.adityaraj8%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/aditya-raj-kumar-dora-44145b322"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Raj-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-16a34a?style=flat-square" alt="Open to SDE internships" />
@@ -22,7 +23,7 @@
 
 Third-year B.Tech CSE at **IIIT Bhagalpur**.
 
-Co-founder of **Kalaa SkillTech** — vocational training for rural youth, **₹10 lakh seed funding under Startup Bihar**, selected from 10,000+ applicants.
+Co-founder of **[Kalaa SkillTech](https://kalaa-website.vercel.app)** — vocational training for rural youth, **₹10 lakh seed funding under Startup Bihar**, selected from 10,000+ applicants.
 
 Every project links to its source, and each web app to a live demo.
 
@@ -39,7 +40,7 @@ Every project links to its source, and each web app to a live demo.
 
 | PR | Status | What I fixed |
 | :--- | :--- | :--- |
-| **[freeCodeCamp #71332](https://github.com/freeCodeCamp/freeCodeCamp/pull/71332)** | Open | First contribution to freeCodeCamp: fixed a sentence fragment in a Python curriculum test hint, verified against the repo's curriculum test suite. |
+| **[freeCodeCamp #71332](https://github.com/freeCodeCamp/freeCodeCamp/pull/71332)** | Merged | First contribution to freeCodeCamp: fixed a sentence fragment in a Python curriculum test hint, verified against the repo's curriculum test suite. |
 
 ## Problem solving
 
@@ -136,4 +137,4 @@ I'm open to **SDE internship opportunities**. The quickest way to reach me is [e
 
 ## Reach me
 
-[me.adityaraj8@gmail.com](mailto:me.adityaraj8@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/aditya-raj-kumar-dora-44145b322) &nbsp;·&nbsp; [github.com/me-adityaraj8](https://github.com/me-adityaraj8)
+[Portfolio](https://me-adityaraj8.vercel.app) &nbsp;·&nbsp; [me.adityaraj8@gmail.com](mailto:me.adityaraj8@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/aditya-raj-kumar-dora-44145b322) &nbsp;·&nbsp; [github.com/me-adityaraj8](https://github.com/me-adityaraj8)
