@@ -9,7 +9,7 @@
 <h1 align="center">Aditya Raj</h1>
 
 <p align="center">
-  <a href="https://github.com/me-adityaraj8"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=620&height=48&lines=CS%20undergrad%20at%20IIIT%20Bhagalpur%3BFull-stack%20Engineer.%20Problem%20Solver%20in%20C%2B%2B.%3B600%2B%20problems%20solved.%203%20products%20shipped.%3BOpen%20to%20SDE%20internships." alt="CS undergrad at IIIT Bhagalpur - full-stack engineer, problem solver in C++, 600+ problems solved, open to SDE internships" /></a>
+  <a href="https://github.com/me-adityaraj8"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=620&height=48&lines=CS%20undergrad%20at%20IIIT%20Bhagalpur%3BFull-stack%20Engineer.%20Problem%20Solver%20in%20C%2B%2B.%3B600%2B%20problems%20solved.%204%20products%20shipped.%3BOpen%20to%20SDE%20internships." alt="CS undergrad at IIIT Bhagalpur - full-stack engineer, problem solver in C++, 600+ problems solved, open to SDE internships" /></a>
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@ Every project links to its source, and each web app to a live demo.
 
 | Project | What's interesting | Stack |
 | :--- | :--- | :--- |
+| **[Velora](https://github.com/me-adityaraj8/crunchweek-cit-scheduler)**<br/>[live ↗](https://velora-campus.vercel.app) | Campus timetable, exam and venue scheduler from a team hackathon. I wrote the **CP-SAT solver and rule checker**: 0 hard violations on the hackathon's validator, and disruptions repaired with the fewest moves. 500+ tests. | `Python` `FastAPI` `OR-Tools` `React` |
 | **[Rys](https://github.com/me-adityaraj8/career-os)**<br/>[live ↗](https://rys-eight.vercel.app) | Job-search workspace. Kanban drag-and-drop that persists atomically, and AI behind a provider-agnostic gateway with a deterministic mock mode. | `React` `Express` `PostgreSQL` `Docker` |
 | **[Parley](https://github.com/me-adityaraj8/parley)**<br/>[live ↗](https://parley-taupe-phi.vercel.app) | P2P video calling — **media never touches a server**. WebRTC mesh, Perfect Negotiation, Durable Objects signalling. 56 tests. | `Next.js 15` `WebRTC` `Cloudflare` |
 | **[Kairo](https://github.com/me-adityaraj8/kairo)**<br/>[live ↗](https://kairo-olive-beta.vercel.app) | Gamified task tracker. XP, gold and streaks all computed **server-side**, so the client can't cheat them. | `Next.js 14` `Prisma` `NextAuth` |
@@ -40,12 +41,12 @@ Every project links to its source, and each web app to a live demo.
 
 | PR | Status | What I fixed |
 | :--- | :--- | :--- |
-| **[nanocoder #1898](https://github.com/Nano-Collective/nanocoder/pull/1898)** | Open | Open-source terminal coding agent. A mistyped flag like `nanocoder acp` now suggests *Did you mean "--acp"?* instead of failing with a bare error. Added unit and CLI integration tests, plus an Xcode setup guide for the Agent Client Protocol. |
+| **[nanocoder #1898](https://github.com/Nano-Collective/nanocoder/pull/1898)** | Merged | Open-source terminal coding agent with 2.5k stars. A mistyped flag like `nanocoder acp` now suggests *Did you mean "--acp"?* instead of failing with a bare error. Added unit and CLI integration tests, plus an Xcode setup guide for the Agent Client Protocol. |
 | **[freeCodeCamp #71332](https://github.com/freeCodeCamp/freeCodeCamp/pull/71332)** | Merged | First contribution to freeCodeCamp: fixed a sentence fragment in a Python curriculum test hint, verified against the repo's curriculum test suite. |
 
 ## Problem solving
 
-**600+ problems solved** across Codeforces and LeetCode, over **309 active days** with an
+**600+ problems solved** across Codeforces and LeetCode, over **330+ active days** with an
 **82-day peak streak on Codolio** and **50+ rated contests**. The consistency matters more to me than
 any single rating.
 
@@ -67,6 +68,7 @@ any single rating.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 <br/>
@@ -75,6 +77,8 @@ any single rating.
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -113,7 +117,7 @@ any single rating.
 
 ## Currently
 
-Exploring **open-source agentic AI**: contributing to [nanocoder](https://github.com/Nano-Collective/nanocoder), a community-built coding agent for the terminal, where my first PR is in review. Alongside that, I'm developing **Rys** and competing regularly on Codeforces.
+Exploring **open-source agentic AI**: contributing to [nanocoder](https://github.com/Nano-Collective/nanocoder), a community-built coding agent for the terminal, where my first PR has been merged and I've been assigned the next issue. Alongside that, I'm developing **Rys** and competing regularly on Codeforces.
 
 I'm open to **SDE internship opportunities**. The quickest way to reach me is [email](mailto:me.adityaraj8@gmail.com).
 
